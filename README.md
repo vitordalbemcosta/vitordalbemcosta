@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on being a great programmer 😁
 - 🌱 I’m currently learning Js 🤯🤯🤯🤯
-- 💻 I'll join Ironhack Lisbon for a fullstack web dev bootcamp in January 2022!💻
+- 💻 Incoming Ironhack Lisbon student for a fullstack web dev bootcamp in January 2022!💻
 
 - 📫 How to reach me: dalbemcosta@gmail.com 
   <div align="center">
