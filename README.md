@@ -1,4 +1,4 @@
-### Hi there ! I'm Vitor ¯\_(ツ)_/¯
+### Hi you, welcome to my Github profile. 👇
 
 - 🔭 I’m currently working on being a great programmer 😁
 - 🌱 I’m currently learning Js 🤯🤯🤯🤯
