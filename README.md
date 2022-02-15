@@ -1,4 +1,4 @@
-### Hi you, welcome to my Github profile. 👇
+### Hi you, welcome to my Github profile! My name is Vitor and I'm a... 👇
 
 - Full Stack Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS
 
