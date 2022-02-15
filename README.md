@@ -1,8 +1,6 @@
 ### Hi you, welcome to my Github profile. 👇
 
-- 🔭 I’m currently working on being a great programmer 😁
-- 🌱 I’m currently learning Js 🤯🤯🤯🤯
-- 💻 Ironhack Lisbon fullstack Web Dev bootcamp student January 2022!💻
+- Full Stack Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS
 
 - 📫 How to reach me: dalbemcosta@gmail.com 
   <div align="center">
