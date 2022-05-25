@@ -1,6 +1,7 @@
 ### Hi you, welcome to my Github profile! My name is Vitor and I'm a... 👇
 
 - Full Stack Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS
+- Check all my projects and know more about myself here: https://vitordalbem.netlify.app/
 
 - 📫 How to reach me: dalbemcosta@gmail.com 
   <div align="center">
