@@ -1,5 +1,7 @@
 ### Hi you, welcome to my Github profile! My name is Vitor and I'm a... 👇
 
+- Currently working as a Frontend Developer for an amazing company called TeaPayment. The reason why this github has been slow on personal projects.
+
 - Full Stack Developer - Javascript (ES6), TypeScript, MongoDB, Express, React, NodeJS, HTML & CSS
 - Check all my projects and know more about myself here: https://vitordalbem.netlify.app/
 
