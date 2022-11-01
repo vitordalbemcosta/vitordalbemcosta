@@ -2,8 +2,34 @@
 
 - Currently working as a Frontend Developer for an amazing company called TeaPayment. The reason why this github has been slow on personal projects.
 
-- Full Stack Developer - Javascript (ES6), TypeScript, MongoDB, Express, React, NodeJS, HTML & CSS
-- Check all my projects and know more about myself here: https://vitordalbem.netlify.app/
+Passionate about Frontend development, creating things, making them look beautiful, and visually pleasing! 
+
+I am a great and enthusiast team player who thrives in fast paced environments. I have worked for many years in multicultural settings where I could learn more about people, their backgrounds and interests. I value and intent to keep on working on diverse teams throughout my career.
+
+Experience in :
+- React
+- TypeScript
+- JavaScript (ES6)
+- HTML
+- CSS
+- Gatsby
+- Nextjs
+- Git
+- Github, Gitlabs
+- AWS - CodeCommit
+- Nodejs
+- MongoDB
+- Expressjs
+- Agile: Scrum & Kanban
+- Jira software
+- Figma
+
+I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at dalbemcosta@gmail.com. 
+
+Dublin - Ireland | Remote | EU Citizen 
+✉ dalbemcosta@gmail.com | ☎ +353 (83) 879 7935 | GitHub: @vitordalbemcosta
+English, Portuguese, Spanish & (proficient) Italian.
+- Check some of my personal projects and know more about myself here: https://vitordalbem.netlify.app/
 
 - 📫 How to reach me: dalbemcosta@gmail.com 
   <div align="center">
