@@ -22,9 +22,7 @@ Experience in :
 - Expressjs
 - Agile: Scrum & Kanban
 - Jira software
-- Figma
-
-I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at dalbemcosta@gmail.com. 
+- Figma 
 
 Dublin - Ireland | Remote | EU Citizen 
 ✉ dalbemcosta@gmail.com | ☎ +353 (83) 879 7935 | GitHub: @vitordalbemcosta
