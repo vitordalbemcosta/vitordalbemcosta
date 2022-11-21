@@ -1,6 +1,6 @@
 ### Hi you, welcome to my Github profile! My name is Vitor 👇
 
-- Currently working as a Frontend Developer for an amazing company called TeaPayment,this is the reason why this github has been slow on personal projects.
+- Currently working as a Frontend Developer for an amazing company called TeaPayment, this is the reason why this github has been slow on personal projects.
 
 Passionate about Frontend development, creating things, making them look beautiful, and visually pleasing! 
 
