@@ -1,32 +1,13 @@
 ### Hi you, welcome to my Github profile! My name is Vitor 👇
 
-- Currently working as a Frontend Developer for an amazing company called TeaPayment, this is the reason why this github has been slow on personal projects.
+Currently working as a Frontend Developer for an amazing company called TeaPayment, this is the reason why this github has been slow on personal projects.
 
 Passionate about Frontend development, creating things, making them look beautiful, and visually pleasing! 
 
 I am a great and enthusiast team player who thrives in fast paced environments. I have worked for many years in multicultural settings where I could learn more about people, their backgrounds and interests. I value and intent to keep on working on diverse teams throughout my career.
 
-Experience in :
-- React
-- TypeScript
-- JavaScript (ES6)
-- HTML
-- CSS
-- Gatsby
-- Nextjs
-- Git
-- Github, Gitlabs
-- AWS - CodeCommit
-- Nodejs
-- MongoDB
-- Expressjs
-- Agile: Scrum & Kanban
-- Jira software
-- Figma 
-
-Dublin - Ireland | Remote | EU Citizen 
-✉ dalbemcosta@gmail.com | ☎ +353 (83) 879 7935 | GitHub: @vitordalbemcosta
 English, Portuguese, Spanish & (proficient) Italian.
+
 - Check some of my personal projects and know more about myself here: https://vitordalbem.netlify.app/
 
 - 📫 How to reach me: dalbemcosta@gmail.com 
