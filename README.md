@@ -7,7 +7,7 @@ Currently working as a Frontend Developer for an amazing Fintech called ğŸµ ğŸ
   <div align="center">
   <a href="https://github.com/vitordalbemcosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordalbemcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<div style="display: inline_block" align="center" margin-top="20px" "><br>
+<div style="display: inline_block" align="center" margin-top="20px"><br>
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -20,7 +20,7 @@ Currently working as a Frontend Developer for an amazing Fintech called ğŸµ ğŸ
  
 </div>
  
-  <div align="center" style="margin-top="20px" ">
+  <div align="center" margin-top="20px">
   <a href="https://www.instagram.com/vitordalbem/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href = "mailto:dalbemcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/v%C3%ADtordalbemcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
