@@ -1,16 +1,9 @@
 ### Hi you, welcome to my Github profile! My name is Vitor 👇
 
-Currently working as a Frontend Developer for an amazing company called TeaPayment, this is the reason why this github has been slow on personal projects.
-
-Passionate about Frontend development, creating things, making them look beautiful, and visually pleasing! 
-
-I am a great and enthusiast team player who thrives in fast paced environments. I have worked for many years in multicultural settings where I could learn more about people, their backgrounds and interests. I value and intent to keep on working on diverse teams throughout my career.
-
-English, Portuguese, Spanish & (proficient) Italian.
-
-- Check some of my personal projects and know more about myself here: https://vitordalbem.netlify.app/
+Currently working as a Frontend Developer for an amazing Fintech called 🍵 🐢 TeaPayment 🍵 🐢
 
 - 📫 Reach out to me: dalbemcosta@gmail.com 
+
   <div align="center">
   <a href="https://github.com/vitordalbemcosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordalbemcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,6 +16,7 @@ English, Portuguese, Spanish & (proficient) Italian.
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Gatsby" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gastby/gastby-original.svg">
   
  
 </div>
