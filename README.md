@@ -6,7 +6,7 @@ Currently working as a Frontend Developer for an amazing Fintech called ğŸµ ğŸ
 
   <div align="center">
   <a href="https://github.com/vitordalbemcosta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordalbemcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=vitordalbemcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block" align="center" margin-top="20px"><br>
   <img align="center" alt="Rafa-Js" height="50" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="50" width="80" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
