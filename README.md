@@ -1,6 +1,6 @@
 ### Hi you, welcome to my Github profile! My name is Vitor 👇
 
-Currently working as a Frontend Developer for an amazing Fintech called 🍵 🐢 TeaPayment 🍵 🐢
+Frontend developer for an amazing fintech called ✨🍵 🐢 TeaPayment 🐢 🍵✨
 
 - 📫 Reach out to me: dalbemcosta@gmail.com 
 
