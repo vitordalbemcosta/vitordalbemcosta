@@ -1,8 +1,9 @@
 ### Hi you, welcome to my Github profile! My name is Vitor 👇
-
+<div align="center">
 Frontend developer for an amazing fintech called ✨🍵 🐢 TeaPayment 🐢 🍵✨
 
-- 📫 Reach out to me: dalbemcosta@gmail.com 
+- 📫 Reach out to me: dalbemcosta@gmail.com
+</div>
 
   <div align="center">
   <a href="https://github.com/vitordalbemcosta">
