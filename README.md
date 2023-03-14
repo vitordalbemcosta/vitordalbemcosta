@@ -1,5 +1,5 @@
 
-<div align="center" height="80">
+<div align="center" height="60">
   <h2>Frontend developer for an amazing fintech called ✨🍵 🐢 TeaPayment 🐢 🍵✨</h1>
   <h4>📫 Reach out to me: dalbemcosta@gmail.com</h3>
 </div>
