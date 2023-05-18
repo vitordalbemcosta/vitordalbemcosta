@@ -1,9 +1,3 @@
-
-<div align="center" height="60">
-  <h2>Frontend developer for an amazing fintech called ✨🍵 🐢 TeaPayment 🐢 🍵✨</h1>
-  <h4>📫 Reach out to me: dalbemcosta@gmail.com</h3>
-</div>
-
   <div align="center">
   <a href="https://github.com/vitordalbemcosta">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=vitordalbemcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
