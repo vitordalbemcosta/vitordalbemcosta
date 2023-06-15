@@ -1,5 +1,10 @@
   <div align="center">
-  <a href="https://github.com/vitordalbemcosta">
+    <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitordalbemcosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordalbemcosta&layout=compact&langs_count=10&theme=dark"/>
+
+  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+</div>
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=vitordalbemcosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <div style="display: inline_block" align="center" margin-top="40px"><br>
    <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
